@@ -1,0 +1,61 @@
+   20 bash Anaconda3-2019.03-Linux-x86_64.sh
+   23 conda create -n tensorflowenv
+   25 bash Anaconda3-2019.03-Linux-x86_64.sh
+   26 bash Anaconda3-2019.03-Linux-x86_64.sh -u
+   29 conda
+   39 ls ~/anaconda3/
+   40 ls ~/anaconda3/envs/
+   41 ls ~/anaconda3/envs/tensorflowenv/
+   42 ls ~/anaconda3/envs/tensorflowenv/bin
+   43 ls ~/anaconda3/envs/tensorflowenv/bin/python
+   50 conda create -n tensorflowenv
+   52 ls /home/karaelmas/anaconda3/envs/tensorflowenv/
+   54 conda install -c conda-forge tensorflow
+   64 conda install -c conda-forge np
+   65 conda install -c conda-forge opencv
+   66 conda install -c anaconda numpy
+   94 conda install -c anaconda cudatoolkit
+  135 conda install -c conda-forge matplotlib
+  137 conda install -c anaconda pil
+  143 conda install -c anaconda numpy
+  145 conda install -c conda-forge numpy
+  159 conda install -c anaconda numpy
+  169 conda install -c conda-forge tensorflow
+  171 conda install -c conda-forge opencv
+  176 conda install -c anaconda opencv
+  178 conda install -c anaconda py-opencv
+  181 conda deactivate base
+  188 conda info --envs
+  194 conda create -n tf1
+  195 conda deactivate
+  196 conda info --envs
+  198 conda install -c conda-forge tensorflow
+  201 conda install numpy
+  205 conda install -c conda-forge opencv
+  211 conda install -c conda-forge matplotlib
+  213 conda install -c anaconda pil
+  287 conda install -c conda-forge tensorflow-hub
+  289 conda install -c coecms dataset
+  295 conda install -c conda-forge keras
+  297 conda install -c anaconda ipython
+  299 conda install -c anaconda imutils
+  300 conda install -c conda-forge imutils
+  307 conda info --envs
+  318 conda create -n tf2
+  319 conda activate tf2
+  322 conda create -n tf3 tensorflow
+  323 conda activate tf3
+  326 conda install -c anaconda jupyter
+  328 conda activate tf1
+  329 conda install -c anaconda jupyter
+  331 conda info --envs
+  338 conda install -c menpo imageio
+  353 conda install -c anaconda protobuf
+  410 conda activate tf1
+  412 conda activate tf1
+  420 conda activate tf1
+  434 conda activate tf1
+  436 conda activate tf1
+  440 conda activate tf1
+  472 conda activate tf2
+  475 conda activate tf1

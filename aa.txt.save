@@ -1,0 +1,492 @@
+    1 dir
+    2 ls
+    3 su
+    4 ifconfig
+    5 sudo apt install net-tools
+    6 sudo apt-get dist-upgrade
+    7 sudo apt-get update
+    8 sudo apt-get upgrade
+    9 clear
+   10 apt-get install net-tools
+   11 sudo apt-get install net-tools
+   12 ifconfig
+   13 sudo apt install net-tools
+   14 apt-get install net-tools
+   15 sudo apt-get install net-tools
+   16 ip
+   17 ls
+   18 cd İndirilenler/
+   19 ls
+   20 bash Anaconda3-2019.03-Linux-x86_64.sh
+   21 cd .
+   22 cd ..
+   23 conda create -n tensorflowenv
+   24 cd İndirilenler/
+   25 bash Anaconda3-2019.03-Linux-x86_64.sh
+   26 bash Anaconda3-2019.03-Linux-x86_64.sh -u
+   27 clear
+   28 cd ..
+   29 conda
+   30 clear
+   31 nano /etc/apt/sources.list
+   32 cp /etc/apt/sources.list /etc/apt/sources.list.backup
+   33 sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
+   34 sudo nano /etc/apt/sources.list
+   35 add-apt-repository ppa:dawidd0811/neofetch
+   36 sudo add-apt-repository ppa:dawidd0811/neofetch
+   37 sudo apt-get install neofetch
+   38 neofetch
+   39 ls ~/anaconda3/
+   40 ls ~/anaconda3/envs/
+   41 ls ~/anaconda3/envs/tensorflowenv/
+   42 ls ~/anaconda3/envs/tensorflowenv/bin
+   43 ls ~/anaconda3/envs/tensorflowenv/bin/python
+   44 cd Masaüstü/
+   45 ls
+   46 chmod +x denemetensorflow1.py
+   47 ls
+   48 python3 denemetensorflow1.py
+   49 neofetch
+   50 conda create -n tensorflowenv
+   51 ls
+   52 ls /home/karaelmas/anaconda3/envs/tensorflowenv/
+   53 source activate tensorflowenv
+   54 conda install -c conda-forge tensorflow
+   55 python
+   56 cd Masaüstü/
+   57 cd G
+   58 cd gonderilecek_veriler/
+   59 ls
+   60 ./goster.py
+   61 sudo ./goster.py
+   62 chmod +x goster.py
+   63 ./goster.py
+   64 conda install -c conda-forge np
+   65 conda install -c conda-forge opencv
+   66 conda install -c anaconda numpy
+   67 ./goster.py
+   68 python
+   69 ./goster.py
+   70 python
+   71 cd ..
+   72 chmod +x gonderilecek_veriler
+   73 ls
+   74 cd gonderilecek_veriler/
+   75 ls
+   76 chmod +x .
+   77 ls,
+   78 ls
+   79 ./goster.py
+   80 python3 goster.py
+   81 ,
+   82 python
+   83 git
+   84 sudo apt-get install git
+   85 git
+   86 git clone https://github.com/pjreddie/darknet.git
+   87 cd darknet/
+   88 lsü
+   89 ls
+   90 nano Makefile
+   91 make -j4
+   92 sudo apt-get install make
+   93 make -j4
+   94 conda install -c anaconda cudatoolkit
+   95 make -j4
+   96 make -j4
+   97 sudo make -j4
+   98 ls
+   99 make
+  100 nano Makefile
+  101 make -j4
+  102 sudo apt-get install gcc
+  103 nano Makefile
+  104 make -j4
+  105 apt-get install pkg-config
+  106 sudo apt-get install pkg-config
+  107 make -j4
+  108 ls
+  109 pip install tensorflow
+  110 pip install keras
+  111 ls
+  112 activate tensorflow
+  113 ls
+  114 make -j4
+  115 cd..
+  116 cd ..
+  117 ls
+  118 cd ..
+  119 git clone https://github.com/opencv/opencv_contrib.git
+  120 git clone https://github.com/opencv/opencv.git
+  121 cd opencv
+  122 ls
+  123 clear
+  124 ls
+  125 python3 --version
+  126 mkdir build
+  127 cd build/q
+  128 cd build/
+  129 cmake -D CMAKE_BUILD_TYPE=RELEASE -D 
+CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_PYTHON_EXAMPLES=ON -D 
+INSTALL_C_EXAMPLES=OFF -D OPENCV_ENABLE_NONFREE=ON -D 
+OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules -D 
+PYTHON_EXECUTABLE=~/.virtualenvs/cv/bin/python exit
+  130 sudo apt-get install build-essential cmake unzip pkg-config
+  131 sudo apt-get install libjpeg-dev libpng-dev libtiff-dev
+  132 cd..
+  133 cd ..
+  134 python3 denemetensorflow1.py
+  135 conda install -c conda-forge matplotlib
+  136 python3 denemetensorflow1.py
+  137 conda install -c anaconda pil
+  138 python3 denemetensorflow1.py
+  139 ./denemetensorflow1.py
+  140 python3 denemetensorflow1.py
+  141 python denemetensorflow1.py
+  142 python3 denemetensorflow1.py
+  143 conda install -c anaconda numpy
+  144 python3 denemetensorflow1.py
+  145 conda install -c conda-forge numpy
+  146 python3 denemetensorflow1.py
+  147 pip install numpy
+  148 pip3 install numpy
+  149 python3 denemetensorflow1.py
+  150 python
+  151 python3
+  152 ls
+  153 cd gonderilecek_veriler/
+  154 ls
+  155 python3 denemetensorflow1.py
+  156 python3 goster.py
+  157 ./goster.py
+  158 python3 goster.py
+  159 conda install -c anaconda numpy
+  160 cd ..
+  161 ls
+  162 cd gonderilecek_veriler/
+  163 python3 goster.py
+  164 la
+  165 python3
+  166 python
+  167 cd Masaüstü/
+  168 python denemetensorflow1.py
+  169 conda install -c conda-forge tensorflow
+  170 python denemetensorflow1.py
+  171 conda install -c conda-forge opencv
+  172 python denemetensor
+  173 python denemetensorflow1.py
+  174 ./denemetensorflow1.py
+  175 python3 denemetensorflow1.py
+  176 conda install -c anaconda opencv
+  177 python3 denemetensorflow1.py
+  178 conda install -c anaconda py-opencv
+  179 history
+  180 deactivate base
+  181 conda deactivate base
+  182 source deactivate base
+  183 cd gonderilecek_veriler/
+  184 ls
+  185 ./goster.py
+  186 python goster.py
+  187 source activate tensorflow
+  188 conda info --envs
+  189 source activate tensorflowenv
+  190 python -version
+  191 python
+  192 ./goster.py
+  193 python3 goster.py
+  194 conda create -n tf1
+  195 conda deactivate
+  196 conda info --envs
+  197 source activate tf1
+  198 conda install -c conda-forge tensorflow
+  199 python
+  200 ./goster.py
+  201 conda install numpy
+  202 python -version
+  203 ./goster.py
+  204 python goster.py
+  205 conda install -c conda-forge opencv
+  206 python goster.py
+  207 cd..
+  208 cd ..
+  209 ls
+  210 python denemetensorflow1.py
+  211 conda install -c conda-forge matplotlib
+  212 python denemetensorflow1.py
+  213 conda install -c anaconda pil
+  214 python gonderilecek_veriler/goster.py
+  215 python
+  216 cd gonderilecek_veriler/
+  217 python goster.py
+  218 source activate tf1
+  219 cd gonderilecek_veriler/
+  220 cd Masaüstü/
+  221 cd gonderilecek_veriler/
+  222 python goster.py
+  223 cd ..
+  224 python denemetensorflow1.py
+  225 pip install pillow
+  226 python denemetensorflow1.py
+  227 git clone https://github.com/aymericdamien/TensorFlow-Examples
+  228 cd TensorFlow-Examples/
+  229 ls
+  230 cd examples/
+  231 ls
+  232 cd 1_Introduction/
+  233 ls
+  234 python helloworld.py
+  235 python basic_operations.py
+  236 python basic_eager_api.py
+  237 cd ..
+  238 cd 2_BasicModels/
+  239 ls
+  240 python gradient_boosted_decision_tree.py
+  241 cd ..
+  242 ls
+  243 cd ..
+  244 ls
+  245 python input_data.py
+  246 cd ..
+  247 cd ls
+  248 git clone https://github.com/matterport/Mask_RCNN.git
+  249 cd Mask_RCNN/
+  250 ls
+  251 python setup.py install
+  252 ls
+  253 cd mrcnn/
+  254 ls
+  255 cd ..
+  256 ls
+  257 cd samples/
+  258 ls
+  259 cd balloon/
+  260 ls
+  261 python balloon.py
+  262 cd ..
+  263 ls
+  264 cd coco/
+  265 ls
+  266 python coco.py
+  267 pip3 install imgaug
+  268 pip install imgaug
+  269 python coco.py
+  270 cd..
+  271 cd ..
+  272 ls
+  273 cd shapes/
+  274 ls
+  275 python shapes.py
+  276 cd ..
+  277 ls
+  278 git clone https://github.com/tensorflow/models.git
+  279 cd models/
+  280 ls
+  281 cd research/
+  282 ls
+  283 cd ..
+  284 ls
+  285 cd ..
+  286 python TFHubObjectDetection.py
+  287 conda install -c conda-forge tensorflow-hub
+  288 python TFHubObjectDetection.py
+  289 conda install -c coecms dataset
+  290 python TFHubObjectDetection.py
+  291 python TFHubObjectDetection.py
+  292 cd keras-mask-rcnn/
+  293 ls
+  294 python maskrcnn_predict.py
+  295 conda install -c conda-forge keras
+  296 python maskrcnn_predict.py
+  297 conda install -c anaconda ipython
+  298 python maskrcnn_predict.py
+  299 conda install -c anaconda imutils
+  300 conda install -c conda-forge imutils
+  301 python maskrcnn_predict.py
+  302 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/30th_birthday.jpg
+  303 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/couch.jpg
+  304 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/maxresdefault.jpg
+  305 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels coco_labels.txt --image images/frame1396.jpg
+  306 history
+  307 conda info --envs
+  308 source activate tf1
+  309 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/frame1396.jpg
+  310 ls
+  311 cd Masaüstü/
+  312 ls
+  313 cd keras-mask-rcnn/
+  314 ls
+  315 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/frame1396.jpg
+  316 python maskrcnn_predict.py --weights mask_rcnn_coco.h5 --labels 
+coco_labels.txt --image images/frame4.jpg
+  317 python
+  318 conda create -n tf2
+  319 conda activate tf2
+  320 python
+  321 python3
+  322 conda create -n tf3 tensorflow
+  323 conda activate tf3
+  324 python
+  325 sudo nano ~/.bashrc
+  326 conda install -c anaconda jupyter
+  327 jupyter notebook
+  328 conda activate tf1
+  329 conda install -c anaconda jupyter
+  330 jupyter notebook
+  331 conda info --envs
+  332 source activate tf1
+  333 python
+  334 cd Masaüstü/
+  335 ls
+  336 git clone https://github.com/tensorflow/models.git
+  337 git clone https://github.com/
+  338 conda install -c menpo imageio
+  339 python
+  340 sudo apt install libdvdnav4 libdvdread4 gstreamer1.0-plugins-bad 
+gstreamer1.0-plugins-ugly libdvd-pkg
+  341 cd yyy/
+  342 ls
+  343 1.mp4
+  344 sudo apt-get install vlc
+  345 vlc 1.mp4
+  346 ls,
+  347 ls
+  348 python face-det-vid.py
+  349 pip install imageio-ffmpeg
+  350 python face-det-vid.py
+  351 vlc output.mp4
+  352 python face-det-cam.py
+  353 conda install -c anaconda protobuf
+  354 python object_detection/builders/model_builder_test.py
+  355 cd..
+  356 cd ..
+  357 cd models/
+  358 cd research/
+  359 ls
+  360 cd object_detection/
+  361 ls
+  362 python object_detection/builders/model_builder_test.py
+  363 python builders/model_builder_test.py
+  364 ls
+  365 python builders/model_builder_test.py
+  366 ls
+  367 cd builders/
+  368 ls
+  369 python model_builder_test.py
+  370 cd ..
+  371 cd..
+  372 cd ..
+  373 protoc object_detection/protos/*.proto --python_out=.
+  374 cd object_detection/
+  375 jupyter
+  376 jupyter notebook
+  377 nano object_detection_tutorial.py
+  378 ls
+  379 cd ..
+  380 export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+  381 python object_detection/builders/model_builder_test.py
+  382 cd object_detection/builders/
+  383 ls
+  384 cd ..
+  385 python object_detection/object-detection-tutorial-pic.py
+  386 cd object_detection/
+  387 python object_detection_tutorial.py
+  388 cd Masaüstü/
+  389 cd models/
+  390 cd research/
+  391 LS
+  392 ls
+  393 cd object_detection/
+  394 ls,
+  395 ls
+  396 python object_detection_tutorial.py
+  397 python
+  398 python object_detection_tutorial.py
+  399 source activate tf1
+  400 python object_detection_tutorial.py
+  401 sudo apt-get install tcl-dev tk-dev python-tk python3-tk
+  402 python object_detection_tutorial.py
+  403 python
+  404 python object_detection_tutorial.py
+  405 jupyter notebook
+  406 cd ..
+  407 jupyter notebook
+  408 python object-detection-tutorial-pic.py
+  409 python object-detection-tutorial-webcam.py
+  410 conda activate tf1
+  411 python object-detection-tutorial-webcam.py
+  412 conda activate tf1
+  413 python object-detection-tutorial-webcam.py
+  414 cd Masaüstü/models/
+  415 ls
+  416 cd research/object_detection/
+  417 python object-detection-tutorial-webcam.py
+  418 cd ls
+  419 cd ..
+  420 conda activate tf1
+  421 cd ..
+  422 cd Masaüstü/
+  423 cd yolo-object-detection/
+  424 ls
+  425 python yolo.py
+  426 python yolo.py --image images/baggage_claim.jpg --yolo yolo-coco
+  427 python yolo.py --image images/emin.jpg --yolo yolo-coco
+  428 python yolo.py --image images/frame72.jpg --yolo yolo-coco
+  429 python yolo_video.py --input videos/car_chase_01.mp4 --output 
+output/v1.avi -- yolo yolo-coco
+  430 python yolo_video.py --input videos/car_chase_01.mp4 \ --output 
+output/v1.avi -- yolo yolo-coco
+  431 python yolo_video.py --input videos/car_chase_01.mp4 \ --output 
+output/car1.avi --yolo yolo-coco
+  432 python yolo_video.py --input videos/car_chase_01.mp4 --output output/car1.avi --yolo yolo-coco
+  433 python yolo.py --image images/frame72.jpg --yolo yolo-coco
+  434 conda activate tf1
+  435 python object-detection-tutorial-webcam.py
+  436 conda activate tf1
+  437 cd Masaüstü/
+  438 cd models/research/object_detection/
+  439 python object-detection-tutorial-webcam.py
+  440 conda activate tf1
+  441 cd models/research/object_detection/
+  442 cd Masaüstü/
+  443 cd models/research/object_detection/
+  444 python object-detection-tutorial-webcam.py
+  445 python
+  446 python object-detection-tutorial-webcam.py
+  447 cd ..
+  448 python object_detection/builders/model_builder_test.py
+  449 python object_detection/builders/model_builder_test.py
+  450 cd object_detection/
+  451 python object_detection/builders/model_builder_test.py
+  452 python builders/model_builder_test.py
+  453 python object-detection-tutorial-webcam.py
+  454 python object-detection-tutorial-pic.py
+  455 cd ..
+  456 protoc object_detection/protos/*.proto --python_out=.
+  457 python object-detection-tutorial-pic.py
+  458 cd object_detection/
+  459 python object-detection-tutorial-pic.py
+  460 python builders/model_builder_test.py
+  461 cd ..,
+  462 cd..,
+  463 cd ..
+  464 ,
+  465 export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+  466 python object_detection/builders/model_builder_test.py
+  467 cd ..
+  468 cd research/object_detection/
+  469 ls
+  470 python object-detection-tutorial-webcam.py
+  471 jupyter notebook
+  472 conda activate tf2
+  473 python object-detection-tutorial-webcam.py
+  474 python builders/model_builder_test.py
+  475 conda activate tf1
+  476 python object-detection-tutorial-webcam.py
+  477 history
+  478 history | nano Masaüstü/aa.txt
