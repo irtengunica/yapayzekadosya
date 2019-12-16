@@ -1,0 +1,18 @@
+!!README!!
+
+OPEN TERMİNAL 
+
+$cd Desktop
+$mkdir xmltotxt
+$cd xmltotxt
+$mkdir xml
+$mkdir txt
+$CLOSE TERMİNAL
+
+copy ! xmltotxt.py ! file to folder ! xmltotxt !
+
+copy your xml files to xml folder
+
+OPEN TERMİNAL AND RUN PRGOGRAM
+
+$pyton xmltotxt.py
